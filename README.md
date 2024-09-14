@@ -17,7 +17,7 @@ Also I developed app for recipes where you can registrate and write yourself rec
 
 You can try this one on link down 
 
---> https://foodgram-valuas.ddns.net
+--> http://84.252.139.254:7000/recipes
 
 ---
 
