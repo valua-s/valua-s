@@ -10,7 +10,7 @@ Now I'm reseaching telegram Bots for solving and automatization every day routin
   \
 You can try my telegram bot, which say you is it need umbrella or not, it will send you massage every morning, with notificate 
 
---> !Here will be link for bot! Now it's developing
+--> https://t.me/ValuasWeatherTodayBot
 
   \
 Also I developed app for recipes where you can registrate and write yourself recipes, add to favorite another recipes, make a cart of products, it's like a little social network. 🥪
