@@ -7,16 +7,15 @@ I'm intresting in develop new apps, for doing ours lifes more comfortable and ea
   \
 Now I'm reseaching telegram Bots for solving and automatization every day routine, 
 
-1. You can easy sign up on workout with help of my bot:\
--> https://t.me/Proka44aiBot
-\
-2. Or buy some sport equipment with help another:\
--> https://t.me/dash_gamash_bot
-\
-3.You can try my telegram bot, which say you is it need umbrella or not, it will send you massage every morning, with notificate\
---> https://t.me/ValuasWeatherTodayBot
+1. You can easy sign up on workout with help of my bot 🏋️‍♂️:\
+-> https://t.me/Proka44aiBot\
 
-\
+2. Or buy some sport equipment with help another 🏃:\
+-> https://t.me/dash_gamash_bot\
+
+3. You can try my telegram bot, which say you is it need umbrella or not, it will send you massage every morning, with notificate ⛈️\
+--> https://t.me/ValuasWeatherTodayBot\
+
 Also I developed app for recipes where you can registrate and write yourself recipes, add to favorite another recipes, make a cart of products, it's like a little social network. 🥪
 
 You can learn more by this link -> https://github.com/valua-s/foodgram
