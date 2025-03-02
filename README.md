@@ -13,8 +13,8 @@ Now I'm reseaching telegram Bots for solving and automatization every day routin
 2. Or buy some sport equipment with help another 🏃:\
 -> https://t.me/dash_gamash_bot 
 
-3. You can try my telegram bot, which say you is it need umbrella or not, it will send you massage every morning, with notificate ⛈️\
---> https://t.me/ValuasWeatherTodayBot 
+3. You can try my integration with Stripe payment service by this link\
+--> http://185.246.64.157/ 
 
 Also I developed app for recipes where you can registrate and write yourself recipes, add to favorite another recipes, make a cart of products, it's like a little social network. 🥪
 
