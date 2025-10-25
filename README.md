@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Valentina intern Python-developer 🐍
+### I'm Valentina middle-  Python-developer 🐍
 
 I'm intresting in develop new apps, for doing ours lifes more comfortable and easy. 
 
