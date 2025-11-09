@@ -5,16 +5,13 @@
 I'm intresting in develop new apps, for doing ours lifes more comfortable and easy. 
 
   \
-Now I'm reseaching telegram Bots for solving and automatization every day routine, 
+Now I'm reseaching telegram Bots for solving and automatization every day routine, with ML
 
-1. You can easy sign up on workout with help of my bot 🏋️‍♂️:\
--> https://t.me/Proka44aiBot 
+I so tired from GPS blocking in all cities that 
 
-2. Or buy some sport equipment with help another 🏃:\
--> https://t.me/dash_gamash_bot 
+I write my own bot for predict running distance by training data in csv
 
-3. You can try my integration with Stripe payment service by this link\
---> http://185.246.64.157/ 
+ 🏃‍♂️ https://t.me/distance_predictor_bot
 
 Also I developed app for recipes where you can registrate and write yourself recipes, add to favorite another recipes, make a cart of products, it's like a little social network. 🥪
 
