@@ -1,54 +1,101 @@
-## Hi there 👋
+# Valentina Ch
 
-### I'm Valentina Python-developer 🐍
+AI Systems Engineer focused on agentic workflows, repository intelligence, and context-aware tooling.
 
-I'm intresting in develop new apps, for doing ours lifes more comfortable and easy. 
-
-  \
-Now I'm reseaching telegram Bots for solving and automatization every day routine, with ML
-
-I so tired from GPS blocking in all cities that 
-
-I write my own bot for predict running distance by training data in csv
-
- 🏃‍♂️ https://t.me/distance_predictor_bot
-
-Also I developed app for recipes where you can registrate and write yourself recipes, add to favorite another recipes, make a cart of products, it's like a little social network. 🥪
-
-You can learn more by this link -> https://github.com/valua-s/foodgram
+Building:
+- memory-aware AI systems
+- agent orchestration architectures
+- repository-scale semantic review systems
+- AI-native productivity infrastructure
 
 ---
 
-### Connect with me 🤝
+## Current Focus
 
-<a href="tel:+79505479866"><img align="left" src="https://img.icons8.com/doodle/48/apple-phone.png" alt="apple-phone" width="35px"/></a>
+- Context engineering for long-running agent workflows
+- Repository intelligence and semantic code review
+- Retrieval architectures for organizational memory
+- Evaluation and reliability of autonomous systems
+- AI-assisted engineering workflows
 
-<a href="https://t.me/valua_s"><img align="left" src="https://img.icons8.com/doodle/48/telegram.png" alt="telegram" width="35px"/></a>
+---
 
-<a href="mailto:va1.34@yandex.ru"><img align="left" src="https://img.icons8.com/doodle/48/new-post.png" alt="new-post" width="35px"/></a>
+## Flagship Projects
 
-<a href="https://www.linkedin.com/in/valentina-chermashentseva-78728927b/"><img align="left" src="https://img.icons8.com/doodle/48/linkedin--v2.png" alt="linkedin--v2" width="35px"/></a>
+### Repository Intelligence Review System
 
-<a href="https://instagram.com/valua_s"><img align="center" src="https://img.icons8.com/doodle/48/instagram-new.png" alt="instagram-new" width="35px"/></a>
+Context-aware AI code review system using semantic repository indexing, architectural pattern analysis, and retrieval-augmented reasoning.
 
-<br>
+**Focus**
+- repository-scale retrieval
+- architectural consistency validation
+- contextual code review
+- semantic indexing pipelines
 
-### My steak 🔗
+---
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### Agentic Goal Decomposition Platform
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+AI system for organizational goal decomposition and strategic alignment using historical planning context and institutional memory retrieval.
 
+**Focus**
+- planning orchestration
+- long-term memory
+- hierarchical decomposition
+- context-aware reasoning
 
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+---
 
+### AI-Native Personal Execution System
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+Personal task orchestration platform combining structured execution workflows, contextual memory, and adaptive prioritization.
 
+**Focus**
+- agent workflows
+- memory-aware execution
+- contextual planning
+- productivity systems architecture
+
+---
+
+## Engineering Interests
+
+- Agent orchestration
+- Context engineering
+- Retrieval systems
+- Semantic indexing
+- AI infrastructure
+- Execution graphs
+- Observability for AI systems
+- Evaluation pipelines
+- Async Python architectures
+
+---
+
+## Design Philosophy
+
+I’m interested in AI systems that:
+- maintain contextual continuity
+- expose reasoning and execution flows
+- support human oversight
+- scale beyond single-prompt interactions
+- optimize for reliability over demos
+
+---
+
+## Notes & Research
+
+Topics I actively explore:
+- Retrieval strategies for repository-scale agents
+- Failure modes in long-context workflows
+- Designing observable AI systems
+- Tradeoffs in agent orchestration
+- Memory lifecycle management
+- Context ranking and compression
+
+---
+
+## Contact
+
+- LinkedIn: add-your-link
+- Email: add-your-email
