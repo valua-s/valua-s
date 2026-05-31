@@ -97,5 +97,5 @@ Topics I actively explore:
 
 ## Contact
 
-- LinkedIn: add-your-link
-- Email: add-your-email
+- LinkedIn: [Lilk](https://www.linkedin.com/in/valentina-chermashentseva-78728927b/)
+- Email: va1.34@yandex.ru
