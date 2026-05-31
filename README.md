@@ -48,6 +48,8 @@ AI system for organizational goal decomposition and strategic alignment using hi
 
 ### AI-Native Personal Execution System
 
+[DAIOS REPO](https://github.com/valua-s/daios)
+[DAIOS SITE](https://daios.sytes.net)
 Personal task orchestration platform combining structured execution workflows, contextual memory, and adaptive prioritization.
 
 **Focus**
