@@ -10,16 +10,6 @@ Building:
 ```
 ---
 
-## Current Focus
-```
-- Context engineering for long-running agent workflows
-- Repository intelligence and semantic code review
-- Retrieval architectures for organizational memory
-- Evaluation and reliability of autonomous systems
-- AI-assisted engineering workflows
-```
----
-
 ## Flagship Projects
 
 ### Repository Intelligence Review System
@@ -48,42 +38,6 @@ Personal task orchestration platform combining structured execution workflows, c
 
 ---
 
-## Engineering Interests
-
-- Agent orchestration
-- Context engineering
-- Retrieval systems
-- Semantic indexing
-- AI infrastructure
-- Execution graphs
-- Observability for AI systems
-- Evaluation pipelines
-- Async Python architectures
-
----
-
-## Design Philosophy
-
-I’m interested in AI systems that:
-- maintain contextual continuity
-- expose reasoning and execution flows
-- support human oversight
-- scale beyond single-prompt interactions
-- optimize for reliability over demos
-
----
-
-## Notes & Research
-
-Topics I actively explore:
-- Retrieval strategies for repository-scale agents
-- Failure modes in long-context workflows
-- Designing observable AI systems
-- Tradeoffs in agent orchestration
-- Memory lifecycle management
-- Context ranking and compression
-
----
 
 ## Contact
 
