@@ -1,23 +1,23 @@
 # Valentina Ch
 
 AI Systems Engineer focused on agentic workflows, repository intelligence, and context-aware tooling.
-
+```
 Building:
 - memory-aware AI systems
 - agent orchestration architectures
 - repository-scale semantic review systems
 - AI-native productivity infrastructure
-
+```
 ---
 
 ## Current Focus
-
+```
 - Context engineering for long-running agent workflows
 - Repository intelligence and semantic code review
 - Retrieval architectures for organizational memory
 - Evaluation and reliability of autonomous systems
 - AI-assisted engineering workflows
-
+```
 ---
 
 ## Flagship Projects
@@ -31,18 +31,6 @@ Context-aware AI code review system using semantic repository indexing, architec
 - architectural consistency validation
 - contextual code review
 - semantic indexing pipelines
-
----
-
-### Agentic Goal Decomposition Platform
-
-AI system for organizational goal decomposition and strategic alignment using historical planning context and institutional memory retrieval.
-
-**Focus**
-- planning orchestration
-- long-term memory
-- hierarchical decomposition
-- context-aware reasoning
 
 ---
 
